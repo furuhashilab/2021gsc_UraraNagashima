@@ -11,3 +11,5 @@
 指導教員 古橋大地 教授
 
 ©︎Furuhashi Laboratory/Nagasima Urara, CC BY 4.0
+
+#子供向けワークショップ用ジオガチャ開発
