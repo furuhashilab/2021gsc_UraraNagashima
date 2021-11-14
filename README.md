@@ -12,20 +12,20 @@
 
 ©︎Furuhashi Laboratory/Nagasima Urara, CC BY 4.0
 ********
-### 子供向けワークショップ用ジオガチャ開発
+## 子供向けワークショップ用ジオガチャ開発
 
-#### 概要
+### 概要
 
-#### Introduction
+### Introduction
 
-#### Methods
+### Methods
 
-#### Results
+### Results
 
-#### DIscussion
+### DIscussion
 
 ### 20201年11月16日ゼミ論中間発表
 
-##### 発表資料
+#### 発表資料
 
-##### グラレコ
+#### グラレコ
