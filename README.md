@@ -24,6 +24,9 @@
 
 ### DIscussion
 
+### 参考文献・参考資料リスト
+https://docs.google.com/spreadsheets/d/17X94k8fMRCX4GWSUY4Qkzu2rfxsSgcKL4o5QR1uJ6g4/edit?usp=sharing
+
 ### 20201年11月16日ゼミ論中間発表
 
 #### 発表資料
