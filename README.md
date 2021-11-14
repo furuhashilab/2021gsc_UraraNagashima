@@ -34,5 +34,5 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vSpEolfufSdICqr9IdkMt9uUzcPCM3D3
 ### 20201年11月16日ゼミ論中間発表
 
 #### 発表資料
-
+https://docs.google.com/presentation/d/1BWWCzMyiIv0_2mBFFscY63ePLGh653vgK2GMXCUyTEg/edit?usp=sharing
 #### グラレコ
