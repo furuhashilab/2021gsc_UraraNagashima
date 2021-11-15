@@ -31,14 +31,17 @@
 ### DIscussion
 
 ### 先行研究
+ガチャガチャはノベルティグッズの魅力を進化させる！日本ガチャガチャ協会所長 小野尾さん【ノベルティトップランナー】（2020）
 https://novezo.jp/feature/913/
+
+
+
 ### 参考文献・参考資料リスト
 https://docs.google.com/spreadsheets/d/1eERcJoA46zhxX6ZHBOXZkkfA8NIYnEtLiJvolGrFSmw/edit?usp=sharing
 ********
 ### 20201年11月16日ゼミ論中間発表
 
 #### 発表資料
-ガチャガチャはノベルティグッズの魅力を進化させる！日本ガチャガチャ協会所長 小野尾さん【ノベルティトップランナー】（2020）
 https://docs.google.com/presentation/d/1BWWCzMyiIv0_2mBFFscY63ePLGh653vgK2GMXCUyTEg/edit?usp=sharing
 #### グラレコ
 
