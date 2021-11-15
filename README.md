@@ -30,8 +30,11 @@
 
 ### DIscussion
 
+###　先行研究
+
 ### 参考文献・参考資料リスト
 https://docs.google.com/spreadsheets/d/1eERcJoA46zhxX6ZHBOXZkkfA8NIYnEtLiJvolGrFSmw/edit?usp=sharing
+********
 ### 20201年11月16日ゼミ論中間発表
 
 #### 発表資料
