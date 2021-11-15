@@ -50,6 +50,9 @@ https://docs.google.com/spreadsheets/d/1eERcJoA46zhxX6ZHBOXZkkfA8NIYnEtLiJvolGrF
 
 #### 発表資料
 https://docs.google.com/presentation/d/1BWWCzMyiIv0_2mBFFscY63ePLGh653vgK2GMXCUyTEg/edit?usp=sharing
+
+#### メディウム
+
 #### グラレコ
 
 ![ios__________](https://user-images.githubusercontent.com/51436920/141842417-128b084f-d1aa-4c88-91bf-7b6bf0f48e81.jpg)
