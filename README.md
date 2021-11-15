@@ -36,3 +36,6 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vSpEolfufSdICqr9IdkMt9uUzcPCM3D3
 #### 発表資料
 https://docs.google.com/presentation/d/1BWWCzMyiIv0_2mBFFscY63ePLGh653vgK2GMXCUyTEg/edit?usp=sharing
 #### グラレコ
+
+#### プロジェクト管理
+https://github.com/furuhashilab/sotsuron2021/projects/23
