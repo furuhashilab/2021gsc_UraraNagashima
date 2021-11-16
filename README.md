@@ -43,6 +43,10 @@ https://www.kochi-tech.ac.jp/library/ron/pdf/2013/03/14/a1140461.pdf
 
 https://www.walkerplus.com/article/1007300/
 
+白井信. (1996). デザインが幼児玩具に与える意味. 文化女子大学紀要. 服装学・生活造形学研究, (27), 139-148.
+
+https://bunka.repo.nii.ac.jp/index.php?action=pages_view_main&active_action=repository_action_common_download&item_id=380&item_no=1&attribute_id=18&file_no=1&page_id=13&block_id=21
+
 ### 参考文献・参考資料リスト
 https://docs.google.com/spreadsheets/d/1eERcJoA46zhxX6ZHBOXZkkfA8NIYnEtLiJvolGrFSmw/edit?usp=sharing
 ********
