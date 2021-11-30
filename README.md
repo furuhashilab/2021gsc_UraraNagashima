@@ -57,6 +57,8 @@ https://docs.google.com/presentation/d/1BWWCzMyiIv0_2mBFFscY63ePLGh653vgK2GMXCUy
 
 #### メディウム
 
+https://medium.com/furuhashilab/%E3%82%B8%E3%82%AA%E3%82%AC%E3%83%81%E3%83%A3%E9%96%8B%E7%99%BA%E9%96%8B%E5%A7%8B-a5c41ac3a5bb
+
 #### グラレコ
 
 ![ios__________](https://user-images.githubusercontent.com/51436920/141842417-128b084f-d1aa-4c88-91bf-7b6bf0f48e81.jpg)
