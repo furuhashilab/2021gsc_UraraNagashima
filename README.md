@@ -69,6 +69,7 @@ https://medium.com/furuhashilab/%E3%82%B8%E3%82%AA%E3%82%AC%E3%83%81%E3%83%A3%E9
 https://docs.google.com/presentation/d/1BWWCzMyiIv0_2mBFFscY63ePLGh653vgK2GMXCUyTEg/edit?usp=sharing
 
 #### メディウム
+https://medium.com/furuhashilab/2021-12-14-advent-calendar-6acffba8cf53
 
 #### グラレコ
 ![image](https://user-images.githubusercontent.com/51436920/145888995-547c65cd-3813-4547-9d45-f9ca80de9537.png)
