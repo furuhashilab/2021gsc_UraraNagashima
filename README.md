@@ -66,7 +66,7 @@ https://medium.com/furuhashilab/%E3%82%B8%E3%82%AA%E3%82%AC%E3%83%81%E3%83%A3%E9
 ### 20201年12月14日アドベントカレンダー
 
 #### 発表資料
-https://docs.google.com/presentation/d/1CeT95OQQ0rSVMoWOCovdYJH2JPSZwgsIFCIzYXf4Om0/edit#slide=id.g1016ab21000_0_1119
+https://docs.google.com/presentation/d/1CeT95OQQ0rSVMoWOCovdYJH2JPSZwgsIFCIzYXf4Om0/edit?usp=sharing
 
 #### メディウム
 https://medium.com/furuhashilab/2021-12-14-advent-calendar-6acffba8cf53
