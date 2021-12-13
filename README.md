@@ -50,7 +50,7 @@ https://bunka.repo.nii.ac.jp/index.php?action=pages_view_main&active_action=repo
 ### 参考文献・参考資料リスト
 https://docs.google.com/spreadsheets/d/1eERcJoA46zhxX6ZHBOXZkkfA8NIYnEtLiJvolGrFSmw/edit?usp=sharing
 ********
-### 20201年12月14日アドベントカレンダー
+### 20201年11月16日ゼミ論中間発表
 
 #### 発表資料
 https://docs.google.com/presentation/d/1BWWCzMyiIv0_2mBFFscY63ePLGh653vgK2GMXCUyTEg/edit?usp=sharing
@@ -63,10 +63,10 @@ https://medium.com/furuhashilab/%E3%82%B8%E3%82%AA%E3%82%AC%E3%83%81%E3%83%A3%E9
 
 ![ios__________](https://user-images.githubusercontent.com/51436920/141842417-128b084f-d1aa-4c88-91bf-7b6bf0f48e81.jpg)
 ********
-### 20201年11月16日ゼミ論中間発表
+### 20201年12月14日アドベントカレンダー
 
 #### 発表資料
-https://docs.google.com/presentation/d/1BWWCzMyiIv0_2mBFFscY63ePLGh653vgK2GMXCUyTEg/edit?usp=sharing
+https://docs.google.com/presentation/d/1CeT95OQQ0rSVMoWOCovdYJH2JPSZwgsIFCIzYXf4Om0/edit#slide=id.g1016ab21000_0_1119
 
 #### メディウム
 https://medium.com/furuhashilab/2021-12-14-advent-calendar-6acffba8cf53
