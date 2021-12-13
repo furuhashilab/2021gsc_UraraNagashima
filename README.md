@@ -71,6 +71,7 @@ https://docs.google.com/presentation/d/1BWWCzMyiIv0_2mBFFscY63ePLGh653vgK2GMXCUy
 #### メディウム
 
 #### グラレコ
+![image](https://user-images.githubusercontent.com/51436920/145888995-547c65cd-3813-4547-9d45-f9ca80de9537.png)
 
 ********
 #### プロジェクト管理
