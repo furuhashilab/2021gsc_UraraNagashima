@@ -50,7 +50,7 @@ https://bunka.repo.nii.ac.jp/index.php?action=pages_view_main&active_action=repo
 ### 参考文献・参考資料リスト
 https://docs.google.com/spreadsheets/d/1eERcJoA46zhxX6ZHBOXZkkfA8NIYnEtLiJvolGrFSmw/edit?usp=sharing
 ********
-### 20201年11月16日ゼミ論中間発表
+### 20201年12月14日アドベントカレンダー
 
 #### 発表資料
 https://docs.google.com/presentation/d/1BWWCzMyiIv0_2mBFFscY63ePLGh653vgK2GMXCUyTEg/edit?usp=sharing
