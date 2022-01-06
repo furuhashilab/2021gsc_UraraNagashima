@@ -68,7 +68,8 @@ https://medium.com/furuhashilab/%E3%82%B8%E3%82%AA%E3%82%AC%E3%83%81%E3%83%A3%E9
 
 #### グラレコ
 
-![ios__________](https://user-images.githubusercontent.com/51436920/141842417-128b084f-d1aa-4c88-91bf-7b6bf0f48e81.jpg)
+![image](https://user-images.githubusercontent.com/51436920/148326686-8a11c99f-d571-426b-8b04-0fdcac5ab4f8.png)
+
 ********
 ### 20201年12月14日アドベントカレンダー
 
@@ -79,7 +80,8 @@ https://docs.google.com/presentation/d/1CeT95OQQ0rSVMoWOCovdYJH2JPSZwgsIFCIzYXf4
 https://medium.com/furuhashilab/2021-12-14-advent-calendar-6acffba8cf53
 
 #### グラレコ
-![image](https://user-images.githubusercontent.com/51436920/145888995-547c65cd-3813-4547-9d45-f9ca80de9537.png)
+![image](https://user-images.githubusercontent.com/51436920/148326701-b1a6ddc4-e1d9-4af9-88c3-432a7753ac7a.png)
+
 
 ********
 #### プロジェクト管理
