@@ -43,7 +43,9 @@ Introduction
 
 ![image](https://user-images.githubusercontent.com/51436920/148693908-5aebe52d-c4bc-487c-bfef-531dc96c9b4f.png)
 
+![image](https://user-images.githubusercontent.com/51436920/148885484-6e05cd0f-d156-4e15-8512-ad93cfbeb17a.png)
 
+カラーは印刷量を考えできるだけ使用するカラーが少ないように作成した。
 
 ### Results
 
