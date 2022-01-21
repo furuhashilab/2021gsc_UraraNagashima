@@ -72,8 +72,7 @@ Cを押して裏面も切る
 ブーリアンの合成を押す　適応してという作業を繰り返す
 
 以下はエアロボウィングの３Dモデルのデータである。
-https://drive.google.com/file/d/1YDJu5MyKa7DWnskfdsUKSXNwCyNSQD_M/view?usp=drive_web
-
+https://drive.google.com/file/d/1pNiGfvYV-Tw-pKQC6nOkVPNMpPB6cxc2/view?usp=sharing
 
 ### Results
 
