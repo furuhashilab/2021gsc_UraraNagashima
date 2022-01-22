@@ -46,6 +46,11 @@ Introduction
 
 ![スクリーンショット (86)](https://user-images.githubusercontent.com/51436920/150528687-7be2eb17-3fcb-4454-9b0e-78771de144d5.png)
 
+![スクリーンショット (87)](https://user-images.githubusercontent.com/51436920/150641024-f5b14397-2d1c-42bb-b69f-90555cb0286f.png)
+
+![スクリーンショット (88)](https://user-images.githubusercontent.com/51436920/150641029-2814ecd5-37e4-42b8-9d7f-f34343ca3ed9.png)
+
+
 ブレンダーの使用は初めてであったため初期のUV球とラティスを追加後に挫折し、モデリング制作に非常に長い時間を要した。
 
 メッシュのUV球「ラティス」と「球」を追加する
