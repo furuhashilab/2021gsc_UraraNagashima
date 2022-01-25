@@ -90,6 +90,14 @@ Cを押して裏面も切る
 
 https://drive.google.com/file/d/1pNiGfvYV-Tw-pKQC6nOkVPNMpPB6cxc2/view?usp=sharing
 
+自宅の３Dプリンターで試しにカプセルよりも大きい5㎝ほどのサイズで印刷した。エアロボウィングの足が細かく細いため一回目は形にならないほどに印刷され失敗。2回目に土台をつけて印刷したが良い出来ではなかった。
+
+![image](https://user-images.githubusercontent.com/51436920/151033449-3d83f208-d16a-4247-b233-e2a25282f413.png)
+
+![image](https://user-images.githubusercontent.com/51436920/151033427-5da3ae2e-db03-41f4-b1ed-7f1b2bd1bc9f.png)
+
+
+
 ### Results
 
 
