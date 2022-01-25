@@ -44,7 +44,7 @@
 ![image](https://user-images.githubusercontent.com/51436920/148693908-5aebe52d-c4bc-487c-bfef-531dc96c9b4f.png)
 
 ********
-また、エアロセンス株式会社（https://aerosense.co.jp/#top )のエアロボウィング（エアロボウイング (AS-VT01)をガチャガチャ用模型とするため３Ｄモデリングを行った。使用したアプリは本格的な3次元CGを作成するための無料ソフトウェアBlenderである。
+また、エアロセンス株式会社（https://aerosense.co.jp/#top )のエアロボウィング (AS-VT01)をガチャガチャ用模型とするため３Ｄモデリングを行った。使用したアプリは本格的な3次元CGを作成するための無料ソフトウェア「Blender」である。
 
 ![スクリーンショット (86)](https://user-images.githubusercontent.com/51436920/150528687-7be2eb17-3fcb-4454-9b0e-78771de144d5.png)
 
