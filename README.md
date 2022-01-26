@@ -43,7 +43,7 @@
 無料のガチャにするため、印刷量などの費用はできるだけ抑えたいという思いからを使用するカラーを少なくして作成した。
 より細かいイラストにすることも可能であるが子ども向けということでかわいらしさをイメージしたものになった。
 
-<img src ="https://user-images.githubusercontent.com/51436920/148693908-5aebe52d-c4bc-487c-bfef-531dc96c9b4f.png" alt="picture2" width="400" height="350">
+<img src ="https://user-images.githubusercontent.com/51436920/148693908-5aebe52d-c4bc-487c-bfef-531dc96c9b4f.png" alt="picture2" width="350" height="350">
 
 ------------
 また、エアロセンス株式会社（https://aerosense.co.jp/#top )のエアロボウィング (AS-VT01)をガチャガチャ用模型とするため３Ｄモデリングを行った。使用したアプリは本格的な3次元CGを作成するための無料ソフトウェア「Blender」である。
