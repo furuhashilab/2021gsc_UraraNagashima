@@ -143,8 +143,8 @@ https://docs.google.com/presentation/d/1CeT95OQQ0rSVMoWOCovdYJH2JPSZwgsIFCIzYXf4
 https://medium.com/furuhashilab/2021-12-14-advent-calendar-6acffba8cf53
 
 #### グラレコ
-![image](https://user-images.githubusercontent.com/51436920/148326701-b1a6ddc4-e1d9-4af9-88c3-432a7753ac7a.png)
 
+<img src ="https://user-images.githubusercontent.com/51436920/148326701-b1a6ddc4-e1d9-4af9-88c3-432a7753ac7a.png" alt="picture1" width="700" height="450">
 ********
 ### 20222年2月5日ゼミ論最終発表
 
