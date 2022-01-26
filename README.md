@@ -123,17 +123,6 @@ https://docs.google.com/spreadsheets/d/1eERcJoA46zhxX6ZHBOXZkkfA8NIYnEtLiJvolGrF
 https://github.com/furuhashilab/sotsuron2021/projects/23
 
 ********
-### 20222年2月5日ゼミ論最終発表
-
-#### 発表資料
-https://docs.google.com/presentation/d/1bvM2W5O_r7TTHDwWnA8RiXAvrIF-pQpSrzuiAJyETRs/edit?usp=sharing
-
-#### メディウム
-
-#### 最終グラレコ
-
-
-********
 ### 2021年11月16日ゼミ論中間発表
 
 #### 発表資料
@@ -158,3 +147,15 @@ https://medium.com/furuhashilab/2021-12-14-advent-calendar-6acffba8cf53
 
 #### グラレコ
 ![image](https://user-images.githubusercontent.com/51436920/148326701-b1a6ddc4-e1d9-4af9-88c3-432a7753ac7a.png)
+
+********
+### 20222年2月5日ゼミ論最終発表
+
+#### 発表資料
+https://docs.google.com/presentation/d/1bvM2W5O_r7TTHDwWnA8RiXAvrIF-pQpSrzuiAJyETRs/edit?usp=sharing
+
+#### メディウム
+
+#### 最終グラレコ
+
+
