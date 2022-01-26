@@ -131,7 +131,7 @@ https://medium.com/furuhashilab/%E3%82%B8%E3%82%AA%E3%82%AC%E3%83%81%E3%83%A3%E9
 
 #### グラレコ
 
-![image](https://user-images.githubusercontent.com/51436920/148326686-8a11c99f-d571-426b-8b04-0fdcac5ab4f8.png)
+<img src ="https://user-images.githubusercontent.com/51436920/148326686-8a11c99f-d571-426b-8b04-0fdcac5ab4f8.png" alt="picture1" width="700" height="450">
 
 ********
 ### 2021年12月14日アドベントカレンダー
