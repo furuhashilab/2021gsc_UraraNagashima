@@ -97,9 +97,6 @@ Ipadが欲しい。小さなiPhoneの画面でイラストを描くのには無�
 ## DIscussion
 
 
-## 最終グラレコ
-
-
 ## 先行研究
 
 ガチャガチャはノベルティグッズの魅力を進化させる！日本ガチャガチャ協会所長 小野尾さん【ノベルティトップランナー】（2020）
@@ -122,7 +119,18 @@ https://bunka.repo.nii.ac.jp/index.php?action=pages_view_main&active_action=repo
 
 https://docs.google.com/spreadsheets/d/1eERcJoA46zhxX6ZHBOXZkkfA8NIYnEtLiJvolGrFSmw/edit?usp=sharing
 ********
-### 20201年11月16日ゼミ論中間発表
+### 20222年2月5日ゼミ論最終発表
+
+#### 発表資料
+https://docs.google.com/presentation/d/1bvM2W5O_r7TTHDwWnA8RiXAvrIF-pQpSrzuiAJyETRs/edit?usp=sharing
+
+#### メディウム
+
+#### 最終グラレコ
+
+
+********
+### 2021年11月16日ゼミ論中間発表
 
 #### 発表資料
 https://docs.google.com/presentation/d/1BWWCzMyiIv0_2mBFFscY63ePLGh653vgK2GMXCUyTEg/edit?usp=sharing
