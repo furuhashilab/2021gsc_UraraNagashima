@@ -118,6 +118,10 @@ https://bunka.repo.nii.ac.jp/index.php?action=pages_view_main&active_action=repo
 ## 参考文献・参考資料リスト
 
 https://docs.google.com/spreadsheets/d/1eERcJoA46zhxX6ZHBOXZkkfA8NIYnEtLiJvolGrFSmw/edit?usp=sharing
+
+## プロジェクト管理
+https://github.com/furuhashilab/sotsuron2021/projects/23
+
 ********
 ### 20222年2月5日ゼミ論最終発表
 
@@ -154,8 +158,3 @@ https://medium.com/furuhashilab/2021-12-14-advent-calendar-6acffba8cf53
 
 #### グラレコ
 ![image](https://user-images.githubusercontent.com/51436920/148326701-b1a6ddc4-e1d9-4af9-88c3-432a7753ac7a.png)
-
-
-********
-#### プロジェクト管理
-https://github.com/furuhashilab/sotsuron2021/projects/23
