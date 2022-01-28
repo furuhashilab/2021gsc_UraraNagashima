@@ -45,7 +45,7 @@
 
 <img src ="https://user-images.githubusercontent.com/51436920/148693908-5aebe52d-c4bc-487c-bfef-531dc96c9b4f.png" alt="picture2" width="350" height="350">
 没案
-<img src ="https://user-images.githubusercontent.com/51436920/151553192-88f98fa3-f68f-45c3-becf-e762122a02c3.png" alt="picture2" width="100" height="250">
+<img src ="https://user-images.githubusercontent.com/51436920/151553192-88f98fa3-f68f-45c3-becf-e762122a02c3.png" alt="picture2" width="200" height="250">
 ------------
 また、エアロセンス株式会社（https://aerosense.co.jp/#top )のエアロボウィング (AS-VT01)をガチャガチャ用模型とするため３Ｄモデリングを行った。使用したアプリは本格的な3次元CGを作成するための無料ソフトウェア「Blender」である。
 
