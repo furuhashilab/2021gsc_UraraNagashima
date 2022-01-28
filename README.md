@@ -85,6 +85,9 @@ https://drive.google.com/file/d/1pNiGfvYV-Tw-pKQC6nOkVPNMpPB6cxc2/view?usp=shari
 
 ![image](https://user-images.githubusercontent.com/51436920/151033427-5da3ae2e-db03-41f4-b1ed-7f1b2bd1bc9f.png)
 
+<img src ="![image](https://user-images.githubusercontent.com/51436920/151547218-7bfd5591-f791-4f2c-8d5c-d64e15abaf57.png)
+" alt="picture2" width="300" height="350">
+
 ## Results
 多くの種類のガチャガチャを作成することを目標としていたが、イラストがそもそも得意では無いため納得のいく出来のものはできなく、また、３Dモデリングに時間をかけすぎてしまった。
 多くのガチャガチャについてのコラムを読み、現在どのようなガチャガチャが流行っているかを知ることができた。しかし、子どもが喜ぶものが何か考えることはかつて子どもであった私だが難しいことであった。
