@@ -166,6 +166,8 @@ https://docs.google.com/presentation/d/1bvM2W5O_r7TTHDwWnA8RiXAvrIF-pQpSrzuiAJyE
 
 #### メディウム
 
+https://medium.com/furuhashilab/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF-3%E5%B9%B4%E3%81%AE%E9%95%B7%E5%B3%B6%E3%81%86%E3%82%89%E3%82%89%E3%81%A7%E3%81%99-75e46fdc7b2b
+
 #### 最終グラレコ
 
 <img src ="https://user-images.githubusercontent.com/51436920/151568560-e65f9996-1e8f-42fc-b9bf-053504ed264c.png" alt="picture1" width="400" height="600">
