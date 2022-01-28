@@ -89,6 +89,7 @@ https://drive.google.com/file/d/1pNiGfvYV-Tw-pKQC6nOkVPNMpPB6cxc2/view?usp=shari
 
 ガチャガチャの広告を制作
 
+<img src ="" width="300" height="500">
 
 ## Results
 多くの種類のガチャガチャを作成することを目標としていたが、イラストがそもそも得意では無いため納得のいく出来のものはできなく、また、３Dモデリングに時間をかけすぎてしまった。
