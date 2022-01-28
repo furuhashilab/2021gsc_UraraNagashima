@@ -168,4 +168,4 @@ https://docs.google.com/presentation/d/1bvM2W5O_r7TTHDwWnA8RiXAvrIF-pQpSrzuiAJyE
 
 #### 最終グラレコ
 
-
+<img src ="https://user-images.githubusercontent.com/51436920/151568560-e65f9996-1e8f-42fc-b9bf-053504ed264c.png" alt="picture1" width="400" height="600">
