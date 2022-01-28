@@ -49,8 +49,8 @@
 また、エアロセンス株式会社（https://aerosense.co.jp/#top )のエアロボウィング (AS-VT01)をガチャガチャ用模型とするため３Ｄモデリングを行った。使用したアプリは本格的な3次元CGを作成するための無料ソフトウェア「Blender」である。
 
 <img src ="https://user-images.githubusercontent.com/51436920/150528687-7be2eb17-3fcb-4454-9b0e-78771de144d5.png" alt="picture1" width="500" height="300">
-<img src ="https://user-images.githubusercontent.com/51436920/150641024-f5b14397-2d1c-42bb-b69f-90555cb0286f.png" alt="picture1" width="700" height="450">
-<img src ="https://user-images.githubusercontent.com/51436920/150641029-2814ecd5-37e4-42b8-9d7f-f34343ca3ed9.png" alt="picture1" width="700" height="450">
+<img src ="https://user-images.githubusercontent.com/51436920/150641024-f5b14397-2d1c-42bb-b69f-90555cb0286f.png" alt="picture1" width="500" height="300">
+<img src ="https://user-images.githubusercontent.com/51436920/150641029-2814ecd5-37e4-42b8-9d7f-f34343ca3ed9.png" alt="picture1" width="500" height="300">
 
 ブレンダーの使用は初めてであったため初期のUV球とラティスを追加後に挫折し、モデリング制作に非常に長い時間を要した。
 
@@ -81,9 +81,9 @@ https://drive.google.com/file/d/1pNiGfvYV-Tw-pKQC6nOkVPNMpPB6cxc2/view?usp=shari
 
 自宅の３Dプリンターで試しにカプセルよりも大きい5㎝ほどのサイズで印刷した。エアロボウィングの足が細かく細いため一回目は形にならないほどに印刷され失敗。2回目に土台をつけて印刷したが良い出来ではなかった。
 
-![image](https://user-images.githubusercontent.com/51436920/151033449-3d83f208-d16a-4247-b233-e2a25282f413.png)
+<img src ="https://user-images.githubusercontent.com/51436920/151033449-3d83f208-d16a-4247-b233-e2a25282f413.png" alt="picture1" width="500" height="300">
 
-![image](https://user-images.githubusercontent.com/51436920/151033427-5da3ae2e-db03-41f4-b1ed-7f1b2bd1bc9f.png)
+<img src ="https://user-images.githubusercontent.com/51436920/151033427-5da3ae2e-db03-41f4-b1ed-7f1b2bd1bc9f.png" alt="picture1" width="500" height="300">
 
 ---------------
 
