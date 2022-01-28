@@ -88,7 +88,7 @@ https://drive.google.com/file/d/1pNiGfvYV-Tw-pKQC6nOkVPNMpPB6cxc2/view?usp=shari
 
 <img src ="https://user-images.githubusercontent.com/51436920/151033449-3d83f208-d16a-4247-b233-e2a25282f413.png" alt="picture1" width="500" height="300">
 
-<img src ="https://user-images.githubusercontent.com/51436920/151033427-5da3ae2e-db03-41f4-b1ed-7f1b2bd1bc9f.png" alt="picture1" width="300" height="200">
+<img src ="https://user-images.githubusercontent.com/51436920/151033427-5da3ae2e-db03-41f4-b1ed-7f1b2bd1bc9f.png" alt="picture1" width="500" height="300">
 
 ---------------
 
