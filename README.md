@@ -51,7 +51,13 @@
 
 ------------
 
-また、エアロセンス株式会社（https://aerosense.co.jp/#top )のエアロボウィング (AS-VT01)をガチャガチャ用模型とするため３Ｄモデリングを行った。使用したアプリは本格的な3次元CGを作成するための無料ソフトウェア「Blender」である。
+また、エアロセンス株式会社（https://aerosense.co.jp/#top )のエアロボウィング (AS-VT01)をガチャガチャ用模型とするため３Ｄモデリングを行った。
+
+ドローンのガチャガチャは既に、DJI ドローンミニチュアコレクションとしてタカラトミーから出ている。発売時期は2019年5月で、価格:は税込み300円である。
+https://www.takaratomy-arts.co.jp/items/item.html?n=Y875786
+このようなものにするのが理想である。
+
+今回モデリングを作成する際に使用したアプリは本格的な3次元CGを作成するための無料ソフトウェア「Blender」である。
 
 <img src ="https://user-images.githubusercontent.com/51436920/150528687-7be2eb17-3fcb-4454-9b0e-78771de144d5.png" alt="picture1" width="500" height="300">
 <img src ="https://user-images.githubusercontent.com/51436920/150641024-f5b14397-2d1c-42bb-b69f-90555cb0286f.png" alt="picture1" width="500" height="300">
