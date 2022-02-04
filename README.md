@@ -53,6 +53,8 @@
 
 <img src ="https://user-images.githubusercontent.com/51436920/151553192-88f98fa3-f68f-45c3-becf-e762122a02c3.png" alt="picture2" width="150" height="250">
 
+<img src ="https://user-images.githubusercontent.com/51436920/152541705-33162aa6-0881-4275-b1dc-8ecc5ef9a1cc.png" alt="picture2" width="150" height="250">
+
 ------------
 
 また、エアロセンス株式会社（https://aerosense.co.jp/#top )のエアロボウィング (AS-VT01)をガチャガチャ用模型とするため３Ｄモデリングを行った。
