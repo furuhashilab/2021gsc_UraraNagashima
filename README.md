@@ -176,7 +176,7 @@ https://medium.com/furuhashilab/2021-12-14-advent-calendar-6acffba8cf53
 ### 20222年2月5日ゼミ論最終発表
 
 #### 発表資料
-https://docs.google.com/presentation/d/1bvM2W5O_r7TTHDwWnA8RiXAvrIF-pQpSrzuiAJyETRs/edit?usp=sharing
+https://docs.google.com/presentation/d/1cn-V9ejJyiQ8iS0sqftS0XGx5jWLmL96N4wqEWhLPVY/edit?usp=sharing
 
 #### メディウム
 
